@@ -29,4 +29,6 @@ function validateform(){
 	console.log(state);
 	console.log(username);
 	console.log(password);
+	
+	console.log("hi");
 }
