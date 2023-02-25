@@ -16,6 +16,7 @@ function validateform(){
 	var username = document.getElementById('username');
 	var password = document.getElementById('password');
 	
+	console.log("hi");
 	
 	console.log("firstname");
 	console.log(lastname);
