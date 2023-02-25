@@ -15,9 +15,9 @@ html, body {
   margin: 0;
 }
 
-.full-height {
+/* .full-height {
   height: 80%;
-}
+} */
 </style>
 </head>
 <body>
@@ -27,7 +27,7 @@ html, body {
 		<br>
 	</div>
 
-	<div>
+	<div style=height:100%">
 		<tiles:insertAttribute name="body" />
 	
 	</div>

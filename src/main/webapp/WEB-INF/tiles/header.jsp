@@ -49,10 +49,10 @@
         <a class="nav-link" href="#register">Artist Corner</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#register">Register</a>
+        <a class="nav-link" href="/customer-sign-up"">Register</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#login">Login</a>
+        <a class="nav-link" href="/sign-in">Login</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#cart">

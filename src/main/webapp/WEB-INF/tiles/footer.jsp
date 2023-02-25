@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+ <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
@@ -8,16 +8,32 @@
 </head>
 <body>
 <style>
-footer {
+/* footer {
     height: 100px;
     background: #eee;
-}
+} */
 footer {
-    margin-top: auto;
+    margin-top: 10px;
+    padding-top: 12px;
+    background-color: green;
 }
+
+
+/* /* footer {
+  background-color: #f5f5f5;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+  margin-top: auto;
+}
+
+/* #myid1{
+background-color: red;
+text-align: center;
+} */
 </style>
-<div class="text-center text-muted">
-	<footer class="bg-light py-3">
+<div class="text-center text-muted" style="text-align: center" >
+	<footer  class="text-center text-white" style="background-color: #caced1;" id="myid1" >
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4">
@@ -50,4 +66,4 @@ footer {
 	</footer>
 	</div>
 </body>
-</html>
+</html> 
