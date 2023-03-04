@@ -150,22 +150,6 @@ function validatePassword() {
 	}
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 function validateform() {
 	
 	var firstname = document.getElementById('firstName');
